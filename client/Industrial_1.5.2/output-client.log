@@ -1,0 +1,81 @@
+2022-12-19 16:51:55 [CLIENT] [INFO] Setting user: kostrerovan
+2022-12-19 16:51:55 [CLIENT] [INFO] LWJGL Version: 2.9.4
+2022-12-19 16:52:08 [CLIENT] [WARNING] TextureManager.createTexture called for file mods/forestry/textures/blocks/wood/planks.giganteum.png, but that file does not exist. Ignoring.
+2022-12-19 16:52:08 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2022-12-19 16:52:08 [CLIENT] [INFO] Found animation info for: mods/buildcraft/textures/blocks/oil.txt
+2022-12-19 16:52:08 [CLIENT] [INFO] Found animation info for: mods/buildcraft/textures/blocks/oil_flow.txt
+2022-12-19 16:52:08 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2022-12-19 16:52:08 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2022-12-19 16:52:08 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2022-12-19 16:52:08 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2022-12-19 16:52:08 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2022-12-19 16:52:08 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2022-12-19 16:52:09 [CLIENT] [WARNING] TextureManager.createTexture called for file mods/forestry/textures/items/misc/empty.png, but that file does not exist. Ignoring.
+2022-12-19 16:52:09 [CLIENT] [WARNING] TextureManager.createTexture called for file mods/forestry/textures/items/analyzer/natural.png, but that file does not exist. Ignoring.
+2022-12-19 16:52:09 [CLIENT] [WARNING] TextureManager.createTexture called for file mods/forestry/textures/items/misc/liquid.png, but that file does not exist. Ignoring.
+2022-12-19 16:52:09 [CLIENT] [INFO] Found animation info for: mods/buildcraft/textures/items/fuel.txt
+2022-12-19 16:52:09 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2022-12-19 16:52:09 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2022-12-19 16:52:09 [CLIENT] [INFO] Found animation info for: mods/forestry/textures/items/bees/default/drone.body2.txt
+2022-12-19 16:52:09 [CLIENT] [INFO] Found animation info for: mods/forestry/textures/items/bees/default/drone.outline.txt
+2022-12-19 16:52:09 [CLIENT] [INFO] Found animation info for: mods/forestry/textures/items/bees/default/larvae.body.txt
+2022-12-19 16:52:09 [CLIENT] [INFO] Found animation info for: mods/forestry/textures/items/bees/default/larvae.body2.txt
+2022-12-19 16:52:09 [CLIENT] [INFO] Found animation info for: mods/forestry/textures/items/bees/default/larvae.outline.txt
+2022-12-19 16:52:09 [CLIENT] [INFO] Found animation info for: mods/forestry/textures/items/bees/default/princess.body2.txt
+2022-12-19 16:52:09 [CLIENT] [INFO] Found animation info for: mods/forestry/textures/items/bees/default/princess.outline.txt
+2022-12-19 16:52:09 [CLIENT] [INFO] Found animation info for: mods/forestry/textures/items/bees/default/queen.body2.txt
+2022-12-19 16:52:09 [CLIENT] [INFO] Found animation info for: mods/forestry/textures/items/bees/default/queen.outline.txt
+2022-12-19 16:52:09 [CLIENT] [INFO] Found animation info for: mods/forestry/textures/items/biomefinder.txt
+2022-12-19 16:52:09 [CLIENT] [INFO] Found animation info for: mods/forestry/textures/items/caterpillar.body.txt
+2022-12-19 16:52:09 [CLIENT] [INFO] Found animation info for: mods/forestry/textures/items/caterpillar.body2.txt
+2022-12-19 16:52:09 [CLIENT] [INFO] Found animation info for: mods/forestry/textures/items/liquidBiofuel.txt
+2022-12-19 16:52:09 [CLIENT] [INFO] Found animation info for: mods/forestry/textures/items/liquidBiomass.txt
+2022-12-19 16:52:09 [CLIENT] [INFO] Found animation info for: mods/forestry/textures/items/liquidGlass.txt
+2022-12-19 16:52:09 [CLIENT] [INFO] Found animation info for: mods/forestry/textures/items/liquidHoney.txt
+2022-12-19 16:52:09 [CLIENT] [INFO] Found animation info for: mods/forestry/textures/items/liquidIce.txt
+2022-12-19 16:52:09 [CLIENT] [INFO] Found animation info for: mods/forestry/textures/items/liquidJuice.txt
+2022-12-19 16:52:09 [CLIENT] [INFO] Found animation info for: mods/forestry/textures/items/liquidMead.txt
+2022-12-19 16:52:09 [CLIENT] [INFO] Found animation info for: mods/forestry/textures/items/liquidSeedOil.txt
+2022-12-19 16:52:16 [CLIENT] [WARNING] TextureManager.createTexture called for file mods/projectred/textures/blocks//gates/base.png, but that file does not exist. Ignoring.
+2022-12-19 16:52:16 [CLIENT] [WARNING] TextureManager.createTexture called for file mods/forestry/textures/blocks/wood/planks.giganteum.png, but that file does not exist. Ignoring.
+2022-12-19 16:52:17 [CLIENT] [INFO] Found animation info for: mods/lcpack/textures/blocks/002_1.txt
+2022-12-19 16:52:17 [CLIENT] [INFO] Found animation info for: mods/advsolar/textures/blocks/asp_side.txt
+2022-12-19 16:52:17 [CLIENT] [INFO] Found animation info for: mods/advsolar/textures/blocks/hsp_side.txt
+2022-12-19 16:52:17 [CLIENT] [INFO] Found animation info for: mods/advsolar/textures/blocks/qgen_a_side.txt
+2022-12-19 16:52:17 [CLIENT] [INFO] Found animation info for: mods/advsolar/textures/blocks/qgen_d_side.txt
+2022-12-19 16:52:17 [CLIENT] [INFO] Found animation info for: mods/advsolar/textures/blocks/usp_side.txt
+2022-12-19 16:52:17 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2022-12-19 16:52:17 [CLIENT] [INFO] Found animation info for: mods/lazor_solar/textures/blocks/Panel10_side.txt
+2022-12-19 16:52:17 [CLIENT] [INFO] Found animation info for: mods/lazor_solar/textures/blocks/Panel1_side.txt
+2022-12-19 16:52:17 [CLIENT] [INFO] Found animation info for: mods/lazor_solar/textures/blocks/Panel2_side.txt
+2022-12-19 16:52:17 [CLIENT] [INFO] Found animation info for: mods/lazor_solar/textures/blocks/Panel3_side.txt
+2022-12-19 16:52:17 [CLIENT] [INFO] Found animation info for: mods/lazor_solar/textures/blocks/Panel4_side.txt
+2022-12-19 16:52:17 [CLIENT] [INFO] Found animation info for: mods/lazor_solar/textures/blocks/Panel5_side.txt
+2022-12-19 16:52:17 [CLIENT] [INFO] Found animation info for: mods/lazor_solar/textures/blocks/Panel6_side.txt
+2022-12-19 16:52:17 [CLIENT] [INFO] Found animation info for: mods/lazor_solar/textures/blocks/Panel7_side.txt
+2022-12-19 16:52:17 [CLIENT] [INFO] Found animation info for: mods/lazor_solar/textures/blocks/Panel8_side.txt
+2022-12-19 16:52:17 [CLIENT] [INFO] Found animation info for: mods/lazor_solar/textures/blocks/Panel9_side.txt
+2022-12-19 16:52:17 [CLIENT] [INFO] Found animation info for: mods/lazor_solar/textures/blocks/qgen_a_side.txt
+2022-12-19 16:52:17 [CLIENT] [INFO] Found animation info for: mods/lazor_solar/textures/blocks/qgen_d_side.txt
+2022-12-19 16:52:17 [CLIENT] [INFO] Found animation info for: mods/buildcraft/textures/blocks/oil.txt
+2022-12-19 16:52:17 [CLIENT] [INFO] Found animation info for: mods/buildcraft/textures/blocks/oil_flow.txt
+2022-12-19 16:52:17 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2022-12-19 16:52:17 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2022-12-19 16:52:17 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2022-12-19 16:52:17 [CLIENT] [INFO] Found animation info for: mods/lcpack/textures/blocks/ladders/atlantis_water_flow.txt
+2022-12-19 16:52:17 [CLIENT] [INFO] Found animation info for: mods/lcpack/textures/blocks/lamps/10.txt
+2022-12-19 16:52:17 [CLIENT] [INFO] Found animation info for: mods/lcpack/textures/blocks/stone/22.txt
+2022-12-19 16:52:17 [CLIENT] [INFO] Found animation info for: mods/lcpack/textures/blocks/stone/23.txt
+2022-12-19 16:52:17 [CLIENT] [INFO] Found animation info for: mods/lcpack/textures/blocks/stone/24.txt
+2022-12-19 16:52:17 [CLIENT] [INFO] Found animation info for: mods/lcpack/textures/blocks/stone/25.txt
+2022-12-19 16:52:17 [CLIENT] [INFO] Found animation info for: mods/lcpack/textures/blocks/stone/26.txt
+2022-12-19 16:52:17 [CLIENT] [INFO] Found animation info for: mods/lcpack/textures/blocks/stone/31.txt
+2022-12-19 16:52:17 [CLIENT] [INFO] Found animation info for: mods/lcpack/textures/blocks/stone/ngore.txt
+2022-12-19 16:52:17 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2022-12-19 16:52:17 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2022-12-19 16:52:17 [CLIENT] [INFO] Found animation info for: mods/appeng/textures/blocks/BlockTransPlane.txt
+2022-12-19 16:52:17 [CLIENT] [INFO] Found animation info for: mods/appeng/textures/blocks/MEWaiting.txt
+2022-12-19 16:52:17 [CLIENT] [INFO] Found animation info for: mods/lcpack/textures/blocks/ladders/atlantis_water_still.txt
+2022-12-19 16:52:17 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2022-12-19 16:52:17 [CLIENT] [WARNING] TextureManager.createTexture called for file mods/lcpack/textures/items/NGCase.png, but that file does not exist. Ignoring.
+2022-12-19 16:52:17 [CLIENT] [WARNING] TextureManager.createTexture called for file mods/forestry/textures/items/misc/empty.png, but that file does not exist. Ignoring.

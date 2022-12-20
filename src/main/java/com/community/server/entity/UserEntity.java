@@ -10,6 +10,7 @@ import javax.persistence.*;
 import javax.validation.constraints.Email;
 import javax.validation.constraints.NotBlank;
 import javax.validation.constraints.Size;
+import java.math.BigDecimal;
 import java.util.Date;
 import java.util.HashSet;
 import java.util.Set;
@@ -47,6 +48,8 @@ public class UserEntity {
     @NotBlank
     @Size(max = 100)
     private String password;
+
+    private BigDecimal balance;
 
     @CreatedDate
     private Date createDate = new Date();

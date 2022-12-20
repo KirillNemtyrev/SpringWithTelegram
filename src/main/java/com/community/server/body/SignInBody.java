@@ -4,6 +4,6 @@ import lombok.Getter;
 
 @Getter
 public class SignInBody {
-    private String usernameOrEmail;
+    private String username;
     private String password;
 }

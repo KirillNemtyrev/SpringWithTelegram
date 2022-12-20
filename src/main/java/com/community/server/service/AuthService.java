@@ -10,7 +10,6 @@ import com.community.server.repository.RoleRepository;
 import com.community.server.repository.UserRepository;
 import com.community.server.security.JwtAuthenticationResponse;
 import com.community.server.security.JwtTokenProvider;
-import lombok.RequiredArgsConstructor;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
@@ -76,18 +75,18 @@ public class AuthService {
 
     }
 
-    public ResponseEntity<?> auth(SignInBody signInBody){
+    public ResponseEntity<?> auth(SignInBody signInBody) {
 
-        if(signInBody.getUsernameOrEmail() == null || signInBody.getPassword() == null){
+        if(signInBody.getUsername() == null || signInBody.getPassword() == null){
             return new ResponseEntity<>("Auth options are not specified.", HttpStatus.BAD_GATEWAY);
         }
 
         Authentication authentication = authenticationManager.authenticate(
-                new UsernamePasswordAuthenticationToken(signInBody.getUsernameOrEmail(), signInBody.getPassword()));
+                new UsernamePasswordAuthenticationToken(signInBody.getUsername(), signInBody.getPassword()));
 
         SecurityContextHolder.getContext().setAuthentication(authentication);
-
         String jwt = tokenProvider.generateToken(authentication);
+
         return ResponseEntity.ok(new JwtAuthenticationResponse(jwt));
     }
 

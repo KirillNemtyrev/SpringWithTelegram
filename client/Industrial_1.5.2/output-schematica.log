@@ -1,0 +1,27 @@
+2022-12-19 16:52:01 [FINEST] Sent event FMLConstructionEvent to mod Schematica
+2022-12-19 16:52:07 [FINEST] Sending event FMLPreInitializationEvent to mod Schematica
+2022-12-19 16:52:07 [INFO] Loading language file: da_DK
+2022-12-19 16:52:07 [INFO] Loading language file: de_DE
+2022-12-19 16:52:07 [INFO] Loading language file: en_US
+2022-12-19 16:52:07 [INFO] Loading language file: es_MX
+2022-12-19 16:52:07 [INFO] Loading language file: fr_FR
+2022-12-19 16:52:07 [INFO] Loading language file: hu_HU
+2022-12-19 16:52:07 [INFO] Loading language file: it_IT
+2022-12-19 16:52:07 [INFO] Loading language file: lt_LT
+2022-12-19 16:52:07 [INFO] Loading language file: nl_NL
+2022-12-19 16:52:07 [INFO] Loading language file: pl_PL
+2022-12-19 16:52:07 [INFO] Loading language file: pt_PT
+2022-12-19 16:52:07 [INFO] Loading language file: sl_SI
+2022-12-19 16:52:07 [INFO] Loading language file: zh_CN
+2022-12-19 16:52:07 [FINEST] Sent event FMLPreInitializationEvent to mod Schematica
+2022-12-19 16:52:13 [FINEST] Sending event FMLInitializationEvent to mod Schematica
+2022-12-19 16:52:13 [FINEST] Sent event FMLInitializationEvent to mod Schematica
+2022-12-19 16:52:14 [FINEST] Sending event IMCEvent to mod Schematica
+2022-12-19 16:52:14 [FINEST] Sent event IMCEvent to mod Schematica
+2022-12-19 16:52:15 [FINEST] Sending event FMLPostInitializationEvent to mod Schematica
+2022-12-19 16:52:15 [INFO] Reading aliasVanilla.properties...
+2022-12-19 16:52:15 [INFO] Reading flipVanilla.properties...
+2022-12-19 16:52:15 [INFO] Reading rotationVanilla.properties...
+2022-12-19 16:52:15 [FINEST] Sent event FMLPostInitializationEvent to mod Schematica
+2022-12-19 16:52:15 [FINEST] Sending event FMLLoadCompleteEvent to mod Schematica
+2022-12-19 16:52:15 [FINEST] Sent event FMLLoadCompleteEvent to mod Schematica
