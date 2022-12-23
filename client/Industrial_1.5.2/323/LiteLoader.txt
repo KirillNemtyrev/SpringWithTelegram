@@ -1,0 +1,29 @@
+2022-12-19 16:52:05 [INFO] LiteLoader 1.5.2 starting up...
+2022-12-19 16:52:05 [INFO] Java reports OS="windows 10"
+2022-12-19 16:52:05 [INFO] Mods folder found, searching C:\Users\kiril\AppData\Roaming\McSkill\updates\Industrial_1.5.2\mods
+2022-12-19 16:52:05 [INFO] Found 3 mod file(s)
+2022-12-19 16:52:05 [INFO] Enumerating class path...
+2022-12-19 16:52:05 [INFO] Class path separator=";"
+2022-12-19 16:52:05 [INFO] Class path entries=(
+   classpathEntry=C:\Users\kiril\AppData\Roaming\MCSkill\updates\Launcher.jar
+)
+2022-12-19 16:52:05 [INFO] Discovering mods on class path...
+2022-12-19 16:52:05 [INFO] Searching protection domain code source...
+2022-12-19 16:52:05 [INFO] Searching C:\Users\kiril\AppData\Roaming\MCSkill\updates\Launcher.jar...
+2022-12-19 16:52:05 [INFO] Searching C:\Users\kiril\AppData\Roaming\McSkill\updates\Industrial_1.5.2\mods\1.5.2_TabbyChat_1.10.00.litemod...
+2022-12-19 16:52:05 [INFO] Found 1 potential matches
+2022-12-19 16:52:05 [INFO] Searching C:\Users\kiril\AppData\Roaming\McSkill\updates\Industrial_1.5.2\mods\Macro-Keybind-Mod-1.5.2.litemod...
+2022-12-19 16:52:05 [INFO] Found 1 potential matches
+2022-12-19 16:52:05 [INFO] Searching C:\Users\kiril\AppData\Roaming\McSkill\updates\Industrial_1.5.2\mods\mod_worldeditcui_1.5.2_01_lite_mc1.5.2.litemod...
+2022-12-19 16:52:05 [INFO] Found 1 potential matches
+2022-12-19 16:52:05 [INFO] Mod class discovery completed
+2022-12-19 16:52:05 [INFO] Discovered 3 total mod(s)
+2022-12-19 16:52:05 [INFO] Loading mod from acs.tabbychat.liteloader.LiteModTabbyChat
+2022-12-19 16:52:05 [INFO] Successfully added mod TabbyChat version 1.10.00
+2022-12-19 16:52:05 [INFO] Loading mod from net.eq2online.macros.LiteModMacros
+2022-12-19 16:52:05 [INFO] Successfully added mod Macro / Keybind Mod version 0.9.9
+2022-12-19 16:52:05 [INFO] Loading mod from wecui.LiteModWorldEditCUI
+2022-12-19 16:52:05 [INFO] Successfully added mod WorldEditCUI by yetanotherx version 1.5.2_02_lite
+2022-12-19 16:52:05 [INFO] Initialising mod TabbyChat version 1.10.00
+2022-12-19 16:52:05 [INFO] Initialising mod Macro / Keybind Mod version 0.9.9
+2022-12-19 16:52:06 [INFO] Initialising mod WorldEditCUI by yetanotherx version 1.5.2_02_lite

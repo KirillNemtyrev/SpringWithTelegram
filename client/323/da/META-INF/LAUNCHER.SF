@@ -1,0 +1,776 @@
+Signature-Version: 1.0
+SHA-256-Digest-Manifest-Main-Attributes: 5up6yRgbqlN8PLtAFIZ2QjkZdFjLX
+ jpn6FLlTPkDJM4=
+SHA-256-Digest-Manifest: SNSdTsH7IOV+QpGcfEJxbr9A0hIaISC/Gcp4+MXUb2Y=
+Created-By: 1.8.0_345 (Azul Systems, Inc.)
+
+Name: launcher/kEEPeRjerry4x5.class
+SHA-256-Digest: otgUxkI1IcoOnfJmuvcP+miVHMJ4QazN2hyOh+pXYpU=
+
+Name: yggdrasil_session_pubkey.der
+SHA-256-Digest: rZPFdqEaPxCP3oYb/+xUsl6MhG7F5HiM7eHMzJaeDvk=
+
+Name: com/mojang/authlib/Agent.class
+SHA-256-Digest: BH3HiUAeXstGDeDOL/plsa0a+Xvw1ncyGuF+Xyug1Gg=
+
+Name: launcher/keePErjERRy57k.class
+SHA-256-Digest: rgtPw3rSLC6yKRc+Jb0WiOgD72OQb52c04xi9pu+L2U=
+
+Name: launcher/kEePerjErRy09c.class
+SHA-256-Digest: 34jePuTd744TfJsL5wGt24kyNVytMJqlcpr9dizYIWg=
+
+Name: launcher/KEEPeRjErrYXff.class
+SHA-256-Digest: Dxim0/caRWB24B+6egppV2BHLKBcoVFsya5d49H1Zx0=
+
+Name: com/mojang/authlib/yggdrasil/ProfileNotFoundException.class
+SHA-256-Digest: MbF3ulkctpsxBEQ0ltyovNXnIKMUnzh1VkHHMVG0ZZc=
+
+Name: launcher/kEEperjeRryvyX.class
+SHA-256-Digest: L5xytM4z1kZ346EOPcSHjcwAryJUgFhmPukivEgYvow=
+
+Name: com/eclipsesource/json/JsonObject.class
+SHA-256-Digest: 8zPAVMBNzZ3Yh8MkzgC+tRijxnXKXaPRQV2zF689gwY=
+
+Name: com/mojang/authlib/yggdrasil/response/PrivilegesResponse$Privile
+ ges.class
+SHA-256-Digest: rIGkzcdTyMjiIyG6X4vVOrmcwsHn4sGH2V6+YpyCfAs=
+
+Name: launcher/KeepErJErrYUKW.class
+SHA-256-Digest: JiwlXCnmlPIFlnN0oIc7BbtZi2CNApQJ95yWCauWNYk=
+
+Name: launcher/keEpErjERrYAt4.class
+SHA-256-Digest: xfwFUBVUffzFxvA5bBDXcAqwtPNKyJptEzgSa2QnpeA=
+
+Name: launcher/KEePerJerrYhCt.class
+SHA-256-Digest: DohTT0yojxs7BUGky4eTkw0CYO0XQXq8/3Cz0d/rwa0=
+
+Name: com/mojang/authlib/minecraft/TelemetrySession.class
+SHA-256-Digest: jbBJRpWLXrFuLDXsm3iK5vmH0i9aIBzzV+IxfsRZlBY=
+
+Name: com/mojang/authlib/exceptions/MinecraftClientException.class
+SHA-256-Digest: yrc7Lw6F0vXD2Tr/k3Y2/X7EIKLa1tETuAjAGBHgQtM=
+
+Name: launcher/KeepErJerRyaAA.class
+SHA-256-Digest: a5gVUorPta1QF2vnss4q8UZXVGFOuvTjY0sn+sBmQnw=
+
+Name: com/mojang/authlib/Environment$1.class
+SHA-256-Digest: TabYnOAc7hhbZdrhsnYgQKUQy7de+rh3qdJf6Ho4Jj4=
+
+Name: com/mojang/authlib/legacy/LegacyMinecraftSessionService.class
+SHA-256-Digest: 3e/ZGpNgNlHhU1OfI2YBy4dXTmfxR3pDfnvY013Wcio=
+
+Name: launcher/KEeperJerrYuCQ.class
+SHA-256-Digest: tAi4ZKPb9kUyvxWTsXsjmnpCWxtCVfmSL0yjeG/AMVc=
+
+Name: com/eclipsesource/json/PrettyPrint$1.class
+SHA-256-Digest: Q1CZTo+EvxziNPBM81Wknjky8/RCbxAQMc7wVMsmG5M=
+
+Name: META-INF/maven/com.google.code.findbugs/jsr305/pom.properties
+SHA-256-Digest: eE51u90e+i4hanLjD40tGwNBcfmDci1sm4HXpBMlB2c=
+
+Name: com/mojang/authlib/yggdrasil/response/Response.class
+SHA-256-Digest: UqyoGBQGPeLl04x2xOgIbkT/Uug7gLdSybc5/2x8PlM=
+
+Name: com/mojang/authlib/properties/PropertyMap.class
+SHA-256-Digest: zjXvfO02RdDmh6Ed2TFRlD1aqrHCH+G0ScDbXifU1rk=
+
+Name: com/mojang/authlib/UserAuthentication.class
+SHA-256-Digest: k0WSjmdSx1W0JJt1JI33yMWcAwozzMdtEt5PWNqYfWA=
+
+Name: com/mojang/authlib/minecraft/TelemetryEvent.class
+SHA-256-Digest: 386Erevfrh3Zn8c6r3cFJr+IfffxjigSN/9a+uQKhPM=
+
+Name: com/mojang/authlib/minecraft/UserApiService$1.class
+SHA-256-Digest: ZerW+ppoHbCCOJm9pEXCpBqLfEBwRoRvm2yjtWANyh0=
+
+Name: com/mojang/authlib/yggdrasil/YggdrasilUserApiService.class
+SHA-256-Digest: jZHt8ifhHgpZmPz5kIO1WHwFN1CWhT/vaHX3zt1e7Ww=
+
+Name: com/mojang/authlib/minecraft/SocialInteractionsService.class
+SHA-256-Digest: gfya3RYIyLEI2tTEAeBMwkN2g2xEdyLZGyapAFTg2o0=
+
+Name: launcher/keePERjErrYClc.class
+SHA-256-Digest: aODRVcA/4rLvr1WTDdXW/22MTKZcNgymgEQz1jj2RZk=
+
+Name: com/mojang/util/UUIDTypeAdapter.class
+SHA-256-Digest: r6KIhO4NR8uHme2Gct3T523jVi/eaZozEbFoVMN5ajI=
+
+Name: com/mojang/authlib/legacy/LegacyAuthenticationService.class
+SHA-256-Digest: LKqVaeeB0I7S/fvndvJiwzdFRuudXkLWCntq3M17kkQ=
+
+Name: com/eclipsesource/json/ParseException.class
+SHA-256-Digest: jTV3E37JY4PyMZyOkjoBMYNlV9IIO7wqde8GwlatpPg=
+
+Name: com/eclipsesource/json/JsonValue.class
+SHA-256-Digest: TivtyQ1dWciRIlvY/S0y5fKpEehzLKm2LxtucnK/HpY=
+
+Name: com/mojang/authlib/yggdrasil/CompatBridge.class
+SHA-256-Digest: bMu980ZliVUGQWngtJvsXNtQrG3PRUrUgoB1zJPSr1g=
+
+Name: launcher/KEepErjeRrYEkB.class
+SHA-256-Digest: Qv4CpuGUN6bQDb6381hzVoPUyIGw18rNs9SS4mvurHg=
+
+Name: launcher/KEePErJeRRygYU.class
+SHA-256-Digest: wNemZFGn5GRal4/2cFyhEniAVn1ZKrQI+7XLPZhl6G0=
+
+Name: launcher/KeepERJerrYYq7.class
+SHA-256-Digest: W2EliR32mLjy510H+dOJVgM58k/c6/etn/9SPPQ2cEE=
+
+Name: launcher/KeEPerjErRyR55.class
+SHA-256-Digest: N+1jrMdRgWomnNhxIMgdvGdEMZ2V+A4sRCARexyWqPI=
+
+Name: launcher/kEEperjERrYOMC.class
+SHA-256-Digest: ZMt3SbrZRlTplzilFnzApVbiQ4dXHmN1L91L63NwbhI=
+
+Name: launcher/KeEperjeRrYrnh.class
+SHA-256-Digest: AB7JMszZHtEgRkHG7V7EAEuhEr6qRcHgKG9hGq11FKI=
+
+Name: launcher/kEEperJErryB31.class
+SHA-256-Digest: S4v643sNbfsodgRaasZdumrktkSnrS5EWTrfuYC9NlA=
+
+Name: launcher/kEEpERjErryuSa.class
+SHA-256-Digest: kJSx+NGauwkuXCSe5fhecbprY9Ts2NKDHU/AcWlZ9sc=
+
+Name: com/mojang/authlib/yggdrasil/response/PrivilegesResponse.class
+SHA-256-Digest: ucsznoXCELimrPbLV9s2TuKO/IjnRBvJBR3jvS9sodc=
+
+Name: com/mojang/authlib/minecraft/TelemetryPropertyContainer$1.class
+SHA-256-Digest: B9U8pF4kKjzi0QSW36LY8VKZWj3Vbz20IVorioAYcqw=
+
+Name: launcher/KeePeRjerryDH3.class
+SHA-256-Digest: a6hSJDM9KEmehWuYtLjiToSbgU7tc+kvSvWzJzm5Ejc=
+
+Name: com/mojang/authlib/minecraft/BaseMinecraftSessionService.class
+SHA-256-Digest: DSjCKK+V1lJXR4s+9gklHKxfqwyuwhJWoVWefkVou/Q=
+
+Name: com/mojang/authlib/minecraft/InsecureTextureException$MissingTex
+ tureException.class
+SHA-256-Digest: c5bm+BKSoJkFhfw/b4O4ZdgvKelM4DnsTH+3wq5ukBo=
+
+Name: com/mojang/authlib/UserType.class
+SHA-256-Digest: TxBBzuXAkKR/68UIWJ7F9usYqvFV+U/hxgoVwaEKq9o=
+
+Name: com/mojang/authlib/yggdrasil/ProfileIncompleteException.class
+SHA-256-Digest: p/cRkBtFCp3aC4haeCgKhmGGRgGhZTSGBI0wlahlPbg=
+
+Name: com/eclipsesource/json/Location.class
+SHA-256-Digest: VSiwpEieqrdXuqZq8DKngxyn2y07t9bVHtojgGK2cNc=
+
+Name: com/mojang/authlib/yggdrasil/YggdrassilTelemetrySession.class
+SHA-256-Digest: tdn6kjeFj2ZWkXS/YooUdI6s1N+KnNw/EXIfmhdk8ws=
+
+Name: com/mojang/authlib/yggdrasil/response/UserAttributesResponse$Pro
+ fanityFilterPreferences.class
+SHA-256-Digest: eoTyM627gnI3S0LcneChgKDSkg7Ut8u+6zPhk7UeHoY=
+
+Name: com/eclipsesource/json/JsonHandler.class
+SHA-256-Digest: Q0o3zcPkrj8ZH+Rje12eRsp1FmuxfP9oahCOCfCFDcA=
+
+Name: com/eclipsesource/json/Json.class
+SHA-256-Digest: 4SrxJL8H+aQFNi7FTM1+tZ8+oM3gpmG1JdQO1gdADMc=
+
+Name: com/mojang/authlib/minecraft/UserApiService$UserProperties.class
+SHA-256-Digest: oMxObjNQqfxSBHjFr0RpCK5irpIv/ds0+Ji+HTsV+lk=
+
+Name: com/mojang/authlib/minecraft/InsecureTextureException$OutdatedTe
+ xtureException.class
+SHA-256-Digest: s3cSVq1wYs1JIV3JEozGEMaHmcHWQz9gqgpamD9YAYI=
+
+Name: launcher/KeepERjeRRyN4e.class
+SHA-256-Digest: hOOdzms2yizN3v2EmIMNIgMsfXdX7RCnqm0ZFWqjodM=
+
+Name: launcher/KeepeRJERRyWud.class
+SHA-256-Digest: MKK6dBhG8nJ4K1Vtoe648cPT4WTjt89eXPtFfbGLtUg=
+
+Name: com/mojang/authlib/exceptions/AuthenticationException.class
+SHA-256-Digest: wz/igB4TxJNfo4BFR9MmhE5b/yX1jam4dukzeVSFdII=
+
+Name: launcher/KeePErjerRy6bP.class
+SHA-256-Digest: IkCBx9oZi4cXzRQpec+8jDlDs5O/E26zELffbLNDgdE=
+
+Name: launcher/kEeperJErrYOoH.class
+SHA-256-Digest: K8mN4OE8RDaQio0qGAaJciUxY9uXMJoEJPThE+AfwHQ=
+
+Name: launcher/KeEperJeRryIQK.class
+SHA-256-Digest: HqdtS6/ea+m1omOHVYLmSSUnrzwkKTq/8GGj6EJipd0=
+
+Name: launcher/KEEpErJeRrYlil.class
+SHA-256-Digest: l4c3Q2otheSX8PE6Lnxvtqo+rnEzyo/Y5bGOQW8xN+M=
+
+Name: com/mojang/authlib/exceptions/UserMigratedException.class
+SHA-256-Digest: 9pFGI4F4KlaEDAm1H7D2TNuFdF9R4xqQ2FO7j5UV8LA=
+
+Name: launcher/KeepErjERryKEt.class
+SHA-256-Digest: a7sY+L/hsPjGNmoe/rDzpQ/qXauNZzzbDxPh3ebB0CY=
+
+Name: launcher/KeEPeRjErrYptJ.class
+SHA-256-Digest: hzZJbobnBRyJcA9hskOR0Sm4xyWSwfscJKOqt+Keshc=
+
+Name: com/mojang/authlib/minecraft/TelemetryEvent$1.class
+SHA-256-Digest: gqPsyjGHMKlPTTzTLqRd0hwArVD+J1jE7erUnJrjg74=
+
+Name: launcher/kEepERjerRYZFo.class
+SHA-256-Digest: IGtusJ1NbOQamsQMIZIKDLpBkc7nhMF4W+PZQRPt4R0=
+
+Name: com/mojang/authlib/minecraft/UserApiService$UserFlag.class
+SHA-256-Digest: YHdWEVa3B0K84Q52N11znj9s5VJ4mCcoVAXD1f96q3s=
+
+Name: launcher/KEePerjeRry8VJ.class
+SHA-256-Digest: BJGQjvIK3A8fRC2VEpKVHsFt+iIhfcYxqRASafIXkhI=
+
+Name: launcher/kEePeRJeRryAUj.class
+SHA-256-Digest: 0HO9QL31jzt7fP3zsSbuEyYcizWEotPOzQw2GRUJ2Gs=
+
+Name: com/mojang/authlib/yggdrasil/request/AuthenticationRequest.class
+SHA-256-Digest: Q0+YIQPmdlng1ci0AMR7srfCDKY6n/WlNuCdnfQDtB0=
+
+Name: com/eclipsesource/json/PrettyPrint$PrettyPrintWriter.class
+SHA-256-Digest: BsaTfeUtzppZGYYB1VQgzxZoyit0YvQsC1/PhfJz+Ds=
+
+Name: com/mojang/authlib/yggdrasil/response/MinecraftTexturesPayload.c
+ lass
+SHA-256-Digest: EgA4KIOpnOQMdVC2RA3vw5IqAIIFNDGLjx+hruGqAf8=
+
+Name: launcher/KEEPErjeRryH1J.class
+SHA-256-Digest: LxfUJmu64HiXwsBKK0qu383jfi21cUQLY/IaZR6+xLU=
+
+Name: launcher/kEePErJERRYtY0.class
+SHA-256-Digest: /n4H7snU2QAfxYngKNKXWXS80M9YBD12rFVZXJHRa6Y=
+
+Name: launcher/KeEpERjErRyhvy.class
+SHA-256-Digest: HHeeCHgY5DM3eleSrH/pQ1WGnGHPw2mMcRX7lVfXNTU=
+
+Name: launcher/KeepeRJERRyjXj.class
+SHA-256-Digest: AtoBad1Y25I4dRUX2eap9VcXcrzNqEstAVG5PS/Ajd8=
+
+Name: launcher/kEepErjERry3Xj.class
+SHA-256-Digest: VtONBTf1w2k5ccwcLtteqs9llEpTju33oUSsmSJsnGQ=
+
+Name: launcher/kEePerJERRYGZu.class
+SHA-256-Digest: IH2dn2gVojrOpllDuNIZNk1BepOlSUJuYqBYkOYi3YA=
+
+Name: com/eclipsesource/json/Json$DefaultHandler.class
+SHA-256-Digest: 7wd5868dHXnvJrG+2LZJ5hMPLTCn4tpM9uLyXPXMcBM=
+
+Name: launcher/keePerJErrY4Oi.class
+SHA-256-Digest: 3X2tGMJizkjyv3Uv+qYa2B4Goh+IWZEmWaS6i4lbQ70=
+
+Name: launcher/keEPERjERryabM.class
+SHA-256-Digest: A6HiLqUkPEn1EuAEXMAyeG1xBmjXqulDxyLXH1dMF0A=
+
+Name: launcher/keePErjerrYnmV.class
+SHA-256-Digest: BW08VD7myeJRj46XwPey236Rb7R1Bmbb3Pz29inUBxg=
+
+Name: launcher/kEepeRjerry9Ep.class
+SHA-256-Digest: ptGrD2WbruQLHpAzk9UhmwAzEe6HgSt+IQpDjiZUZQY=
+
+Name: com/eclipsesource/json/JsonLiteral.class
+SHA-256-Digest: EWYHtYT18QdhW04w8kmtMYr+fsqWaT/LROOvcn13FCg=
+
+Name: launcher/KeePErjerRyOyX.class
+SHA-256-Digest: JVupxVnyJbC4Nv9lHEJXIw2ivx0UNvEy1x5H6zGPGgg=
+
+Name: launcher/keEpErjeRRYsAK.class
+SHA-256-Digest: c0vEjT8wTVULkbRn3X9/40gCjdv5SqLnLKBYaGOQ+6c=
+
+Name: com/mojang/authlib/yggdrasil/request/TelemetryEventsRequest.clas
+ s
+SHA-256-Digest: /5WwoVFHL6bK6w/2jWc9kVeE8f7nv/QWX0ebic6f9Eo=
+
+Name: launcher/keepErJErRy6HE.class
+SHA-256-Digest: 3uSY/SD9Pye3BEKDTA1ddubp8BBfw0q4E/g85k5jMwo=
+
+Name: com/mojang/authlib/properties/PropertyMap$Serializer.class
+SHA-256-Digest: 9XAXydadh7ed8wUn2dL1ddLNkRfR5SprtthzJ0bJI30=
+
+Name: launcher/keePeRjErrypC2.class
+SHA-256-Digest: pdA84ezkKXz6+NhvvLnWFr0nvMX1X+g5ZtUwnBlVCao=
+
+Name: com/mojang/authlib/yggdrasil/response/BlockListResponse.class
+SHA-256-Digest: YtA0UcDjiSQG9ewrHZMCKDHaM85BFeXAskIr7zKrgz4=
+
+Name: launcher/KEePErJERryNPa.class
+SHA-256-Digest: VbqDcuibcfVWfXyORoz4PGkSDq0VFrqIKt62xNdEiA4=
+
+Name: launcher/kEepERjerryhdF.class
+SHA-256-Digest: 3wfsiTcYHcOIGCpuLFmGUkozVI32YH6dkvDv0j1QGOQ=
+
+Name: com/eclipsesource/json/JsonNumber.class
+SHA-256-Digest: CxMeMf5lRt3IUpl7iJVIV5WX/qPrzVE7Vg+mDHzG4TE=
+
+Name: com/mojang/authlib/yggdrasil/response/ProfileSearchResultsRespon
+ se$Serializer.class
+SHA-256-Digest: 7Pi5GZrlMjwEOx4vP8hvvQCUn4/MLVVwpNm3niyzQcA=
+
+Name: launcher/KeepErJeRrY4b2.class
+SHA-256-Digest: m6eXnVBY8wS/z4lH/5VkyPyMovC4dfUoxxMsRgaxuyM=
+
+Name: com/mojang/authlib/yggdrasil/response/ErrorResponse.class
+SHA-256-Digest: LqTzdCsJpAH9TiAPdPmEp9XJgGNbcUNoYF4CGzpeues=
+
+Name: com/mojang/authlib/minecraft/UserApiService.class
+SHA-256-Digest: jzJyFoAEx5NFSqWRho6AJcIvsmIllnijrZ27JAs1cAU=
+
+Name: com/mojang/authlib/yggdrasil/CompatProfile.class
+SHA-256-Digest: Pfb9UrqXOtVgDzyqoZPdSrJ59N1H6UT6cxFRlte2Wn4=
+
+Name: com/eclipsesource/json/JsonWriter.class
+SHA-256-Digest: vTm3ZQ1afdVvNoN0YQhT8bPnmVEF6Pon6pTk48aijY8=
+
+Name: launcher/kEEpeRJERRYUDQ.class
+SHA-256-Digest: MHdwiLaPGYSAnfYP/4XPE0GbdQX+aRbU7coX1wZzBJI=
+
+Name: launcher/kEepERjerryeNm.class
+SHA-256-Digest: 1tc5kVE33Tq/W4ES8e7TXkEnZfuea16ZTtrJlKJFyZo=
+
+Name: com/mojang/authlib/yggdrasil/response/UserAttributesResponse$Pri
+ vileges.class
+SHA-256-Digest: WkEI+j2pOOUIAkdu3m9E2X1Pmp/S4aTIlJR5vvO4Cq4=
+
+Name: launcher/KeepeRjERryuKZ.class
+SHA-256-Digest: 1lCs5RHAF0J//B33m09YEsgoPP/UXCDus6urRWMPukQ=
+
+Name: com/mojang/authlib/yggdrasil/response/MinecraftProfileProperties
+ Response.class
+SHA-256-Digest: w9B2SNfwOb4NLyvUvnCB9f7aPbK8OCBR2hG9IKyhcmk=
+
+Name: com/mojang/authlib/exceptions/InvalidCredentialsException.class
+SHA-256-Digest: AsJ8YF7zOIbnra30M40GAgs6HbJUHDR/WjbOlDz3Xio=
+
+Name: com/mojang/util/
+SHA-256-Digest: K8zaKg5hEIVCg8e8lFkadkVt6BAULr4lmTGNm+5C4Y8=
+
+Name: launcher/KeEpErJeRRYycB.class
+SHA-256-Digest: OiXQ5W4Hzdicq52Wi2kw8NAlPqiXEyjrcNLwJePOR2M=
+
+Name: launcher/kEEpeRjERryUJl.class
+SHA-256-Digest: Tc/PJJuUUIRoXOjJNrg/zP9rn44Mq3agX4xAejAYTv4=
+
+Name: launcher/KeEPerjerRYDVT.class
+SHA-256-Digest: JT9/KaWIzMLR+xPg7eG7sggbIxv2yjcbBEeI+y3k+Bc=
+
+Name: launcher/KEepErjeRRyzrC.class
+SHA-256-Digest: MELPdL2yQ9Vv4au7WX6522Ij2I82dHVQ1NWiomyHfHw=
+
+Name: launcher/keEperJerrYANO.class
+SHA-256-Digest: SWAgJogbN1G8WooOTse29bZv9f3w/mZNxAm8pOEyy+o=
+
+Name: launcher/KEEperJerRyucK.class
+SHA-256-Digest: jkJRZKmVXvyrzrOlZVql5WwTisqDBu9XkLpoY8zbJTI=
+
+Name: com/eclipsesource/json/JsonParser.class
+SHA-256-Digest: DEOCsIStNHbBfsrtQ85/erFcGrNA6grf+16pMHRqvPg=
+
+Name: com/eclipsesource/json/JsonObject$1.class
+SHA-256-Digest: kJOSN9dYqwDei8Hj30tJzfoE+6whYckgzWkDa8aN9NU=
+
+Name: launcher/KeEPerJERryMGV.class
+SHA-256-Digest: F/RFbWH6edMhUUOuJrnYIokQW0Ckc2YOR7t4Yysa9QU=
+
+Name: launcher/KEEpeRjerRyhZa.class
+SHA-256-Digest: /Thi/TFaIRs+FG5/qi+oBJ48HRh6jDBDtBTdLnU0pXE=
+
+Name: launcher/KEeperjERRYyzU.class
+SHA-256-Digest: 7phURJEDtjQ5RPY2RWhiWt6N44yTk3hxuzX9hapDmHU=
+
+Name: launcher/kEEPerjeRRy6uh.class
+SHA-256-Digest: nbg11ZOFz/hR/kGgAIoiFDI7T7xUepgv0o4QafuNqhg=
+
+Name: com/mojang/authlib/EnvironmentParser.class
+SHA-256-Digest: tD3SWj6vMh0KHRx6wtXCEB0CZjrWHvMDojlAFpM4bUw=
+
+Name: launcher/kEEPeRJerRYVb1.class
+SHA-256-Digest: lddpp2WekY2Edd1Z3kvjSysO7wQvpzmzNw9aVZ7Uu0U=
+
+Name: com/mojang/authlib/yggdrasil/YggdrasilGameProfileRepository.clas
+ s
+SHA-256-Digest: uU2ELSLVCKbWPcpWEO1bTfn4CAvD7Qb9W5DZXDHX9ug=
+
+Name: com/mojang/authlib/ProfileLookupCallback.class
+SHA-256-Digest: 8jdUSt7sR4z2PBYoeLxbIfhBbT2OOnUsxlAfoLfTo7E=
+
+Name: launcher/KeePerJErRy8Tm.class
+SHA-256-Digest: /dQqIa2CsCyHv9fbZDtY/zzkXeQHRGJSoa1t0vLZ7rQ=
+
+Name: launcher/kEEpErjERrYCqu.class
+SHA-256-Digest: OvNL7yJFrWlD6S/Rn335gbcpA0n+Hh8e53TaSuS0vg8=
+
+Name: com/mojang/authlib/HttpUserAuthentication.class
+SHA-256-Digest: Fi865e946lnzlZed/DxhoMNViQcTO+mrxO0AQkiiL8Q=
+
+Name: com/eclipsesource/json/WriterConfig.class
+SHA-256-Digest: 5jdSllkRCGvRBw28ImrLZURMUN3qGFm5TdfwBaGimWQ=
+
+Name: launcher/kEepERJErRyMwq.class
+SHA-256-Digest: MLjPKuA/09rnfIOXLBqGBAk/nUPJ0BHcIwfe0ovYNCw=
+
+Name: META-INF/maven/com.eclipsesource.minimal-json/minimal-json/pom.x
+ ml
+SHA-256-Digest: budclQcG5IvUemFsjHhNV6y5c0VqXEQ6Pv9Z7tWolkg=
+
+Name: launcher/KeEperJErryz5T.class
+SHA-256-Digest: IIT686XBnaOGYbz3vXZHGA3v925WKNpmWR1/h+7yh0g=
+
+Name: launcher/KEEpeRjerrYruV.class
+SHA-256-Digest: ZWEjBwl+OrTWHC0KC44mgmtbMTT8gToM6yOWFtG9YKo=
+
+Name: com/mojang/authlib/yggdrasil/YggdrasilEnvironment.class
+SHA-256-Digest: KvehPB/DrWi1cm+qvB0Gpgm7RncAZbmchJn+c024/94=
+
+Name: launcher/kEePerjerryEBg.class
+SHA-256-Digest: 9P9gWCZlUY4jk4SSg1/ov4X4cVxjwDaVPHnStz6qBtg=
+
+Name: launcher/kEePeRJeRRyds6.class
+SHA-256-Digest: wGotXZaKGt/y1BzGhkkIVz+3zDJoVBExfslev0psyDc=
+
+Name: com/mojang/authlib/minecraft/TelemetrySession$1.class
+SHA-256-Digest: MuumYq9C4lOpy0m0Dvr57j67zsN22zGOYg1Yz+S1HD8=
+
+Name: com/eclipsesource/json/JsonObject$Member.class
+SHA-256-Digest: yo6hyls4VtDRz0jQo6RgUU47kHy6n/NEn9WEaDzDkT0=
+
+Name: launcher/KeePeRJerryuZn.class
+SHA-256-Digest: t7nPixiRySckecqK7DYs7lLqJMCDRshsQaNp2RGLXJs=
+
+Name: com/mojang/authlib/yggdrasil/request/TelemetryEventsRequest$Even
+ t.class
+SHA-256-Digest: kbq2me4eR9dP3W/jDR2fuk/ZZKMsi2WRXzhIJR2tihc=
+
+Name: launcher/KeepeRjeRrycgq.class
+SHA-256-Digest: F8SaGBXowyDiK4mJHAUAZZ7ZcDZS24ezEHFu/4XnNHY=
+
+Name: launcher/keEpeRJerRYfkE.class
+SHA-256-Digest: XLLjqEGAI/0Pp+z9nBa6xjWEL8Dg3ivTdkqDAIYLasI=
+
+Name: launcher/keEpERJeRryfd4.class
+SHA-256-Digest: gN5dpyeq73QGBw5xXHaq8Xe8liMp3QSeOgXE/lR9Hxg=
+
+Name: launcher/kEEPerJERrygyq.class
+SHA-256-Digest: p0/cwhqavQDhRK55tL2zcOmqUR4KhkshL/H+ZKZfm24=
+
+Name: launcher/kEEpErJerryq4E.class
+SHA-256-Digest: dEt+aoQ2vsuWH5XvsE/9PoDnAU2H2UCamK6tnmYvRMU=
+
+Name: launcher/KeEpErjERrynz1.class
+SHA-256-Digest: DaLJNTrrdKKuHgDGtTAV9Detfgz9vcVBNB4O4+B5BEo=
+
+Name: launcher/KeEpERJeRRy4zK.class
+SHA-256-Digest: CRsgsPbmE3PJHe3qd9x+4GlNPyiEwM/yGysYbGlEykI=
+
+Name: com/mojang/authlib/yggdrasil/request/JoinMinecraftServerRequest.
+ class
+SHA-256-Digest: WUXWn2E55IolVeGWJQPK2HpP3jGARmDBdRQ9l7lc+1I=
+
+Name: launcher/kEepErJErRyqJr.class
+SHA-256-Digest: XsQZoIAu3dvSs3gtZmwazPlok28+spFZw2xubinvUKE=
+
+Name: com/eclipsesource/json/PrettyPrint.class
+SHA-256-Digest: fbBogomJrm5VzEKPJ4stbGtNHebnPTuqgtGX6AZ7ahA=
+
+Name: com/mojang/authlib/minecraft/HttpMinecraftSessionService.class
+SHA-256-Digest: IYRA7TB9MtjmsfyfvBwK8A2rM8tgXHsBJtrOt2U6HIo=
+
+Name: com/mojang/authlib/yggdrasil/YggdrassilTelemetryEvent.class
+SHA-256-Digest: z116VSeELpYP9w2YZ/HJYeJOXG+GR7KGT3mUVwZ6YcY=
+
+Name: com/mojang/authlib/yggdrasil/response/ProfileSearchResultsRespon
+ se.class
+SHA-256-Digest: kSgJ6SLIc/UfMBf2hiCi7w+cUfOKUTEtuzNnL7GT96A=
+
+Name: launcher/KeEpeRJERrY3B4.class
+SHA-256-Digest: oOnYWqrcGB3GNrNCcOWaXYfkxM4fzssEwGVVzgYhR6M=
+
+Name: launcher/KeePeRJErRyoWd.class
+SHA-256-Digest: H82MvSA8Fb4XUz3MoZOcap149bp+h1gSyp+YengsZB4=
+
+Name: com/mojang/authlib/
+SHA-256-Digest: Ri3c6Tyb422ps0y73FbC5S+qMrXNdrp1QOAD4t4YJJw=
+
+Name: com/mojang/authlib/properties/Property.class
+SHA-256-Digest: XArDrFWKzvflBlrshlv3WEsbIiTHs10B6tXDDddZXEw=
+
+Name: launcher/KEEPERJerRY8WG.class
+SHA-256-Digest: gckVgx9YcVDk3rzCOdQeE0f33pYy03ro8E+eukyKUug=
+
+Name: launcher/KeePERjeRRywbr.class
+SHA-256-Digest: j86Zo5S2gFEn2G8oReWvyP7g7ptwWWtMfunkqX3eJEE=
+
+Name: com/eclipsesource/json/JsonArray$1.class
+SHA-256-Digest: lC06TK5rdBDP+FWbFFetYOIZbY6wUKsvKdRxkgjmXz4=
+
+Name: launcher/kEePeRjErryMYl.class
+SHA-256-Digest: yNF0sL774acBikL1v7xpd8MoG+kJhsfQ5L1Amg3kTxs=
+
+Name: com/mojang/authlib/yggdrasil/YggdrasilAuthenticationService.clas
+ s
+SHA-256-Digest: TaKkalbJFKgvDLP4WfvduBJjqqDxhHJKTp9qGgAvNf8=
+
+Name: launcher/keEPeRjerry0z3.class
+SHA-256-Digest: TU4SSxFlHl6CdXr0xRNPZFDUpN1yjCXQ58weoQ7zEjc=
+
+Name: launcher/keEPErjERrY1tw.class
+SHA-256-Digest: j1embkBql7sEkQ9DVxU7s4TNBJiESW++Wx+iQztsGuM=
+
+Name: com/mojang/authlib/yggdrasil/response/UserAttributesResponse$Pri
+ vileges$Privilege.class
+SHA-256-Digest: 0FbKGtEx3RPAsp5iJ+HMTCeHVpUM1ezQggi9BZ8k3MI=
+
+Name: com/mojang/authlib/minecraft/MinecraftProfileTexture$Type.class
+SHA-256-Digest: eqlKJVLs3ryLdbl0gGcFUDZDLgjf5nfrFGoztFSLuyU=
+
+Name: buildnumber
+SHA-256-Digest: e3Kgv1zRvErRqJjgJ703mErE+miDcsuDi1d0zn+am2k=
+
+Name: launcher/keEpErjerrYZ21.class
+SHA-256-Digest: ReE6i7ym+xpYrXp9iBhRtI2XIoZdJnoT1h2IHPqtFf4=
+
+Name: launcher/keePerJeRrYtsX.class
+SHA-256-Digest: 2I+RGW7ZkPH1olBNslyOEbDRwd0oD+UgPCo859epLPk=
+
+Name: launcher/KeeperjerRyakP.class
+SHA-256-Digest: 14zttjufgFOojeya9lMfvIauyMDGNpKPSO7yHV69kfQ=
+
+Name: com/mojang/authlib/GameProfileRepository.class
+SHA-256-Digest: w+/sBox4u8SiMQ340zizAXXKJMRqUEMDthhmqbLE9dg=
+
+Name: launcher/KEepeRjeRRY7ep.class
+SHA-256-Digest: SQ9uwWYz4jA0fmfMRV8JUUDEaPx2+0zjVxDd9GAFD+o=
+
+Name: launcher/kEEpErJERRYmIE.class
+SHA-256-Digest: ypp8LSFqxgdk0/UpGp4p9ySd7MeXr+7WH50BUIBHtEU=
+
+Name: launcher/
+SHA-256-Digest: y4QwXADiDfv3/m/v+9x0IPwqWUB77xbmVInZmsaYF80=
+
+Name: com/mojang/authlib/Environment.class
+SHA-256-Digest: 9Shq32wgikZKps9AWt1fJ7dtDpFRzZN6bFOZIoJanR0=
+
+Name: META-INF/maven/com.eclipsesource.minimal-json/minimal-json/pom.p
+ roperties
+SHA-256-Digest: HIVX5neL6VVU+qdiIM0oJ2tR6qjkkUdfvojBMSdrfYY=
+
+Name: launcher/keeperjERRyWCz.class
+SHA-256-Digest: F7CCOrWXRwD9A+0u94AA1LMOn7sB3EgpH+7ybSPzymk=
+
+Name: launcher/keePeRJERRyHjo.class
+SHA-256-Digest: hIsxv60i9TTMJa/796uudvi6GdeRUWx2iNx4PX+pP8c=
+
+Name: launcher/KeePErJERrYQ1W.class
+SHA-256-Digest: mBu43l33aUFa1aI5tdVQqkpTK4YoKYRkz3vdX3TJLmI=
+
+Name: com/mojang/authlib/yggdrasil/response/RefreshResponse.class
+SHA-256-Digest: rgFByNAJ5W46p3O7syQGZIo3QIVLD9iDOQUeTtmOPKI=
+
+Name: com/mojang/authlib/yggdrasil/YggdrasilAuthenticationService$Game
+ ProfileSerializer.class
+SHA-256-Digest: /5lyFEGiyAK929T2APzEzM3fBXxUtV+MIjiCcZ94JWg=
+
+Name: launcher/KeeperJerRyoBb.class
+SHA-256-Digest: VlzBoUDWW2bDc9qohVHRaPgx6MhCQPrmRIpCIbc89oc=
+
+Name: com/mojang/authlib/exceptions/InsufficientPrivilegesException.cl
+ ass
+SHA-256-Digest: fNDB+ZSxLVHRJbuJwWbTrqVkSKJDUqvK2jRW5Aza6ow=
+
+Name: com/mojang/authlib/yggdrasil/request/ValidateRequest.class
+SHA-256-Digest: WgpeQDXFRByRXN8qDgmqtdq5oe+nGzb0Jnx7KDEHSyQ=
+
+Name: com/mojang/authlib/yggdrasil/response/User.class
+SHA-256-Digest: BwMj6BrHQWkiJLj1+94xzVQIWKxbexr+9AXjqVrClws=
+
+Name: com/eclipsesource/json/WriterConfig$1.class
+SHA-256-Digest: GmU93lilVNXtGVcAA/+tcMjeH+pyBBsgPl22yP8tQp4=
+
+Name: launcher/kEeperjerRYUNg.class
+SHA-256-Digest: 91FjByH5gUNWsDMIcGSlHKVHavY1mG6i2X4s4J3hwJ0=
+
+Name: com/mojang/authlib/legacy/LegacyUserAuthentication.class
+SHA-256-Digest: WjalPIxH5K8Ov4pVxEKukyFVB8XJh7Q6qIJ5M7naKw8=
+
+Name: launcher/KEePeRJeRRy8Jj.class
+SHA-256-Digest: 5030ahpXs/ZoS0Z6bJD6rdt9hM54M0fMK8daHoJ4zSo=
+
+Name: com/mojang/authlib/yggdrasil/response/AuthenticationResponse.cla
+ ss
+SHA-256-Digest: g0B4Pe+GDK8RWOxCZZZpoFk66971Lsi+l3La9Vb2Xmw=
+
+Name: launcher/KeePerjeRryt52.class
+SHA-256-Digest: sGPAG5E21vSou2FIh603NaViZoNAGeWWAmW9SGB2t3Y=
+
+Name: launcher/KEEPerJeRrYDn8.class
+SHA-256-Digest: hFVCv5NST65vDeV05ckpyoyQf8kd61dbY/0ObpmSerU=
+
+Name: launcher/keEPErJErrYbXW.class
+SHA-256-Digest: mJI3J8HHptEUjiVtkK35YKEqDmoG2E2W75iOLXqHJ40=
+
+Name: com/mojang/authlib/BaseUserAuthentication.class
+SHA-256-Digest: sZTzi3YnIxrYh+bt9vUD00lFLf5gYjpwdQye3aERYQ0=
+
+Name: launcher/KEEPERjeRRyDT2.class
+SHA-256-Digest: EcVNdeF8WlCPa7PmFi6LpswIdqUUtib7xMh2fP/3o2s=
+
+Name: com/mojang/authlib/yggdrasil/response/HasJoinedMinecraftServerRe
+ sponse.class
+SHA-256-Digest: a9szRdYYC0aC+z/GJzq/suWEPMEDISo9Y6HuBVHu2UY=
+
+Name: com/mojang/util/QueueLogAppender.class
+SHA-256-Digest: GOIrkTPqbsNDTU01xc+SFiUzN3MWlf8QypAEtjd+2x0=
+
+Name: com/mojang/authlib/GameProfile.class
+SHA-256-Digest: YzjXu6TZBQhPhqKDcosD674MhVMoOmPqizZZ6D98IDM=
+
+Name: launcher/keePeRJERrYZU2.class
+SHA-256-Digest: oOws3bsXJoplDrkmYg8clC/+Jo4U6kb4b6A48lNRY48=
+
+Name: com/mojang/authlib/yggdrasil/YggdrasilUserAuthentication.class
+SHA-256-Digest: VB9V0JpIUQGdmpmOtJz5D/LxMOvz+5iF6fkDuy+ar6E=
+
+Name: launcher/KEEPeRJERrYASS.class
+SHA-256-Digest: 38HYkyZO7zEO8LGnxBXsg2zihxi7B0uLxaSsA3EPVS8=
+
+Name: launcher/KeEPERjerRyo6P.class
+SHA-256-Digest: 92NNc8UC8s06r0gaDG4ZJJr42bYy20zGaiZpfXUxZp8=
+
+Name: com/mojang/authlib/yggdrasil/request/RefreshRequest.class
+SHA-256-Digest: e+NY/9BdUU1mVXE6DGoPHcECP0ICcVVCX/HPpMPZQdI=
+
+Name: com/eclipsesource/json/JsonArray.class
+SHA-256-Digest: BUachoaezy1gaox6cvYiD7RuwONRPzBtq/wp8L4BxjU=
+
+Name: launcher/keePerJerryeTT.class
+SHA-256-Digest: AGNnI+IheqSgtwExokdwJ3XR02KpEe47Zlx17lcxNk8=
+
+Name: com/mojang/authlib/yggdrasil/response/PrivilegesResponse$Privile
+ ges$Privilege.class
+SHA-256-Digest: r4sEBR2NO4Ci0O/36KV9mo4/HR348jmH1sG153Y1fto=
+
+Name: com/mojang/authlib/exceptions/MinecraftClientException$ErrorType
+ .class
+SHA-256-Digest: Q1PP3PRVhaTeddb4RJ9cE3cn73wxYe6aE/85yFwr8PA=
+
+Name: launcher/KeePERJERryk2s.class
+SHA-256-Digest: Xk8cz3xrhKNB6u85hExtcD47Y8i0g5+G6ouSTaLG5CQ=
+
+Name: launcher/kEEperJERRYGIM.class
+SHA-256-Digest: uk987fOY5183ZwVTV8oFSCcLNgbIc/68FTVEPiRyRMk=
+
+Name: com/mojang/authlib/BaseAuthenticationService.class
+SHA-256-Digest: PH4ZDhYBR+Dp5ErNw0QtdC0rAVM4us9tQWTmsmpTp1A=
+
+Name: com/mojang/authlib/minecraft/InsecureTextureException$WrongTextu
+ reOwnerException.class
+SHA-256-Digest: hFlS073JCNUpC3e3gF+QscP1hKaLjj+pz2c8G621Myg=
+
+Name: com/mojang/authlib/exceptions/AuthenticationUnavailableException
+ .class
+SHA-256-Digest: MeZPKqoPah4BTscMKIjImkr/IVk9V9piGWVC/5GT7lY=
+
+Name: com/mojang/authlib/HttpAuthenticationService.class
+SHA-256-Digest: uZpLtAMRVfcsIbGfDrQQxkeGxA2dmZbpMOQEbBvq6jA=
+
+Name: launcher/KeEPERJErry5NT.class
+SHA-256-Digest: /sjrppS/iuxerWWngkTqd9g/1FfnlGL3BWXXF8l9NB0=
+
+Name: com/mojang/authlib/minecraft/TelemetryPropertyContainer.class
+SHA-256-Digest: +lje3Rtip65jEpPu3AfVxp07ioH48OsaSZ3GFxrFjxA=
+
+Name: launcher/keEPeRjErry4mI.class
+SHA-256-Digest: vuMfHcGudPsxy2VDawtweSAToGAlklgU/Qe4jpHFfoc=
+
+Name: com/mojang/authlib/minecraft/MinecraftProfileTexture.class
+SHA-256-Digest: OPtI6NCrEj22YfBJnUfD7TZhQkIVQimK/5ategBMPG8=
+
+Name: launcher/KeePeRJErRyHXN.class
+SHA-256-Digest: Z8lobYI0S2EzvZJIDNOUSCX9YMUfCsHfPmqrm4u/uek=
+
+Name: com/mojang/authlib/minecraft/MinecraftSessionService.class
+SHA-256-Digest: 4Sjkv9yNyybYHrN6rmOri74PtULHuokDghfQVP6VPjk=
+
+Name: com/mojang/authlib/AuthenticationService.class
+SHA-256-Digest: MbPqI3/bhyEkMsGhaJvIyUkBhOpeXXz4KGkpOen0QUg=
+
+Name: launcher/kEEPErjErryBYR.class
+SHA-256-Digest: hpHWSyaaa8TpE8AiJF2+Sg986Ymzl3uWbOyTTecwAxY=
+
+Name: launcher/KeePERjeRrYwGV.class
+SHA-256-Digest: 9w/7b0up1X5DRTHm1bh484HK5GynwgzdH6AJy0bbUcU=
+
+Name: launcher/kEEPErjerRyItY.class
+SHA-256-Digest: NwZwkUDLBHZ2mcS5qUX82t3W3sZwFDzaQyUu0BZHlPc=
+
+Name: com/mojang/authlib/minecraft/OfflineSocialInteractions.class
+SHA-256-Digest: HB/etmlFnz9btLmMT8NjEFBUoUor+QFnzuvJXWTAGvI=
+
+Name: META-INF/maven/com.google.code.findbugs/jsr305/pom.xml
+SHA-256-Digest: MuMenK/BddmukZ8lfEBTYYiBV/KxdYi6TgpL003Gu5k=
+
+Name: launcher/kEEPErjErRYOqZ.class
+SHA-256-Digest: Jhpyp61o3bYG79dkmY74wyO0M4Fa073NwV0/IlBIFSs=
+
+Name: launcher/KeEPErJErrYwYP.class
+SHA-256-Digest: ftjztlC3MXubmHJvB5bjUh6qg2c57HepZlyBGwMZMlU=
+
+Name: com/mojang/authlib/minecraft/client/ObjectMapper.class
+SHA-256-Digest: CSbIouoq6kAlPvMfWGaDW61D9WpUeS08koqKB75+W3s=
+
+Name: com/mojang/authlib/yggdrasil/response/UserAttributesResponse.cla
+ ss
+SHA-256-Digest: VyQKnBOsslNEBslM2HRwI/tZiF+56ucF3Ygl03N0kx4=
+
+Name: com/mojang/authlib/yggdrasil/YggdrasilSocialInteractionsService.
+ class
+SHA-256-Digest: YD6hFymZGv/sIw+nHvL4Rp66nV5Bzl8nYh+2NaGNoD4=
+
+Name: com/eclipsesource/json/WritingBuffer.class
+SHA-256-Digest: VFm2mLaoS7i7W43yr2grf7xAHh2Dj6HMISLuoON4PDM=
+
+Name: com/eclipsesource/json/JsonObject$HashIndexTable.class
+SHA-256-Digest: cZdEhooqjctSpZtxd9+zEgcLVKwV8RN+zlefz1+C+nA=
+
+Name: launcher/keEPErJERRYlXM.class
+SHA-256-Digest: PaBHtl2ICNnAHn0OJGdb1GQctvCDfOWYLAHwSscX4KE=
+
+Name: com/mojang/authlib/yggdrasil/LegacyBridge.class
+SHA-256-Digest: /pk5c+pPQDrAH8SbQNGGv7xLmftqUy9bowfIFz54H68=
+
+Name: launcher/keepERJerRyy82.class
+SHA-256-Digest: 9cLMxcU7bLx5DCSEHVSPEW+fwgaE8Aeh97sfcT4Dacg=
+
+Name: com/mojang/authlib/minecraft/client/MinecraftClient.class
+SHA-256-Digest: DNPbFTJ2wkADYOcQHASzrwWzpYfo6n+xPswK9RsXDPA=
+
+Name: com/eclipsesource/json/JsonString.class
+SHA-256-Digest: UOYI5e4L+elMBd5OMhcwrYuZY6pwiSWfNtwJ9iv4ATw=
+
+Name: launcher/kEEpErjERRyAWR.class
+SHA-256-Digest: +fubRyFS+5JB6KdNugI1l1Ny8hcjdMo7jaCNbJrYwac=
+
+Name: launcher/keePErJERRyZc0.class
+SHA-256-Digest: ICB3IPSrtnc9MGT7wHEdxKuN1i7vL46vDOo4iwDhuPE=
+
+Name: launcher/KEEpERJeRrYaXw.class
+SHA-256-Digest: Xz0lnSJg4lHu/c1yhdbGgkeIGrlu3mCOswbCIyO13N4=
+
+Name: launcher/KeePerJeRrY10e.class
+SHA-256-Digest: GOGGpCNdfk49EubqRPfzgziK/1tByrDD7olofqWn7No=
+
+Name: launcher/kEepeRJErRyW5H.class
+SHA-256-Digest: Ttk8rg0Itti7l42UTzuPzP8jMJ7RcCj9vw/rFAvqZ2w=
+
+Name: com/mojang/authlib/yggdrasil/YggdrasilAuthenticationService$1.cl
+ ass
+SHA-256-Digest: 3TR9abz6PgQcB+tu9Lq1cgVifaZmEbx4EIEjTiQquAQ=
+
+Name: com/mojang/authlib/yggdrasil/YggdrasilMinecraftSessionService.cl
+ ass
+SHA-256-Digest: C6CFBfXpCaY/CqPU2LyTNWB55/hdYugusFmHWPqd6+U=
+
+Name: com/mojang/authlib/exceptions/MinecraftClientHttpException.class
+SHA-256-Digest: WO+hyLjx5SJZ6K/lD0PKrc5ZlCVs0Ysfs6Ik3jbnZQU=
+
+Name: com/mojang/authlib/minecraft/InsecureTextureException.class
+SHA-256-Digest: Z14FbjsKkfmgBUyQc1HEt9+Kkfo6E0abmvuJjs9rp00=
+
+Name: launcher/kEepeRJERrYYjc.class
+SHA-256-Digest: XW1yfjKRvS8dvf4dbzKdMSJgrJtvWywvkmxbHsPs+xU=
+

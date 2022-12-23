@@ -1,0 +1,90 @@
+music:0.5070422
+sound:0.5
+invertYMouse:false
+mouseSensitivity:0.32394367
+fov:0.63380283
+gamma:1.0
+viewDistance:1
+guiScale:3
+particles:2
+bobView:true
+anaglyph3d:false
+advancedOpengl:false
+fpsLimit:0
+difficulty:1
+fancyGraphics:false
+ao:1
+clouds:true
+skin:MCskill HD.zip
+lastServer:localhost
+lang:en_US
+chatVisibility:0
+chatColors:true
+chatLinks:true
+chatLinksPrompt:true
+chatOpacity:1.0
+serverTextures:false
+snooperEnabled:false
+fullscreen:false
+enableVsync:false
+hideServerAddress:false
+advancedItemTooltips:false
+pauseOnLostFocus:true
+showCape:true
+touchscreen:false
+overrideWidth:0
+overrideHeight:0
+heldItemTooltips:true
+chatHeightFocused:1.0
+chatHeightUnfocused:0.44366196
+chatScale:1.0
+chatWidth:1.0
+key_key.attack:-100
+key_key.use:-99
+key_key.forward:17
+key_key.left:30
+key_key.back:31
+key_key.right:32
+key_key.jump:57
+key_key.sneak:42
+key_key.drop:16
+key_key.inventory:18
+key_key.chat:20
+key_key.playerlist:15
+key_key.pickItem:-98
+key_key.command:53
+key_key.macro_override:157
+key_Quest Log:38
+key_ALT Key:56
+key_Boost Key:19
+key_Mode Switch Key:46
+key_Side Inventory Key:0
+key_Gravi Fly Key:33
+key_Dynamic Lights toggle:37
+key_Reposition Mob Portrait:27
+key_IC2CA Upgrade key:48
+key_Accelerate Key:0
+key_Decelerate Key:0
+key_Left Key:0
+key_Right Key:0
+key_Up Key:0
+key_Down key:0
+key_Exit Key:0
+key_Inventory key:0
+key_Bomb Key:0
+key_Gun Key:0
+key_Control Switch key:0
+key_Roll Left Key:0
+key_Roll Right Key:0
+key_Change Gear Status Key:0
+key_Change Door Status Key:0
+key_Change Wing Position Key:0
+key_Trim Key:0
+key_Park Key:0
+key_Teams Menu Key:0
+key_Teams Scores Key:0
+key_Speak:47
+key_Gliby's Options Menu:52
+key_key.wailaconfig:82
+key_key.wailadisplay:79
+key_key.macros:41
